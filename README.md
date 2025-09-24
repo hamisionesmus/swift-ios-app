@@ -714,7 +714,3 @@ Licensed under the MIT License. See [LICENSE](LICENSE) for details.
 - **Apple**: For the incredible SwiftUI and Combine frameworks
 - **Swift Community**: For the amazing open-source ecosystem
 - **Contributors**: For the valuable contributions and feedback
-
----
-
-**Built with ❤️ in Swift** - Modern iOS development at its finest! 🚀
